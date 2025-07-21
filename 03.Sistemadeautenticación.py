@@ -20,7 +20,7 @@ while remaining_attempts > 0:
         remaining_attempts -= 1
         print(f"Usuario o contraseña incorrectos. Intentos restantes {remaining_attempts}")
 if not authenticated:
-    print("\n ¡ACCESO BLOQUEADO!")
+    print("\n ¡ACCESO BLOQUEADO! ")
     exit()
 
 while True:
