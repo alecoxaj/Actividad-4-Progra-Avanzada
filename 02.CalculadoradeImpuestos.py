@@ -1,4 +1,4 @@
-print("Bienvenido a la Calculadora de impuestos")
+print("Bienvenido a la Calculadora de impuestos ")
 
 annualincome = float(input("Ingresa tus ingresos anuales: "))
 dependentnumber = int(input("Ingresa tu número de dependentes: "))
