@@ -1,4 +1,4 @@
-print("Bienvenido al simulador de facturación")
+print("Bienvenido al simulador de facturación ")
 
 prices = []
 
