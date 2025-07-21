@@ -1,4 +1,4 @@
-print("¡Bienvenido al Simulador!")
+print("¡Bienvenido al Simulador! ")
 name = input("Ingresa tu Nombre Completo: ")
 
 if len(name.strip()) < 5:
