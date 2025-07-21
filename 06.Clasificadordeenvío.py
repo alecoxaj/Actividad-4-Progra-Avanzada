@@ -1,4 +1,4 @@
-print("Bienvenido")
+print("Bienvenido ")
 
 weight = float(input("Ingresa el peso del paquete en kg: "))
 distance = float(input("Ingresa la distancia en km: "))
