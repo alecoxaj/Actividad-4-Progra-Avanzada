@@ -24,7 +24,7 @@ else:
     valid = False
 
 if not valid:
-    print("¡Fecha inválida!")
+    print("¡Fecha inválida! ")
 else:
     m = month
     y = year
