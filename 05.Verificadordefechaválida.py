@@ -10,13 +10,13 @@ if month in [1, 3, 5, 7, 8, 10, 12]:
 
 elif month in [4, 6, 9, 11]:
     if day < 1 or day > 30:
-        valido = False
+        valid = False
 
 elif month == 2:
     leap = (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0)
     if leap:
         if day < 1 or day > 29:
-            valido = False
+            valid = False
     else:
         if day < 1 or day > 28:
             valid= False
