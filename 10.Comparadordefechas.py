@@ -6,7 +6,7 @@ year1 = int(input("Año: "))
 
 print("\nSegunda fecha: ")
 day2 = int(input("Día: "))
-month2 = int(input("Mes: "))
+month2 = int(input("Mes (en números): "))
 year2 = int(input("Año: "))
 
 if year1 > year2:
